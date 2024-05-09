@@ -20,7 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2024-05-09 091337](https://github.com/fifovalle/UI-PEMUAT-VERSI-14.0/assets/90078068/d8a6fca3-1331-4c12-8ae1-53897e4e42dd)
+![Screenshot 2024-05-09 091851](https://github.com/fifovalle/UI-PEMUAT-VERSI-13.0/assets/90078068/bcf29bca-8583-4a30-a47b-594bd628263e)
 
 ## 📬 Kontak
 
@@ -35,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-PEMUAT-VERSI-14.0.git
+   git clone https://github.com/fifovalle/UI-PEMUAT-VERSI-13.0.git
 
    ```
 
